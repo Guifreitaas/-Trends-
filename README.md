@@ -1,4 +1,7 @@
-# **Shopping Trend Insights**
+# **Querying and Analyzing - Shopping Trend**
+
+[LinkedIn](https://www.linkedin.com/in/guilhermefreitas-eng/) | [GitHub](https://www.linkedin.com/in/guilhermefreitas-eng/)
+
 
 ### Steps:
 
