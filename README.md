@@ -1,8 +1,10 @@
 # **Querying and Analyzing - Shopping Trend**
 
-[LinkedIn](https://www.linkedin.com/in/guilhermefreitas-eng/) | [GitHub](https://www.linkedin.com/in/guilhermefreitas-eng/)
+[LinkedIn](https://www.linkedin.com/in/guilhermefreitas-eng/) **|** [GitHub](https://github.com/Guifreitaas)
 
+### Objective:
 
+The main objective of this study is to analyze the data contained in the shopping_trends database using SQL language, through SQL Server, to understand the customer profile and identify behavioral patterns related to the purchases made. The analysis aims to explore aspects such as item and category preferences. These insights can guide strategic decisions to improve customer experience and optimize sales and marketing.
 ### Steps:
 
 -  Data Extraction in Kaggle;
@@ -11,9 +13,6 @@
 -  Analysis and Storytelling;
 -  Conclusion;
 
-### Objective:
-
-The main objective of this study is to analyze the data contained in the shopping_trends database using SQL language, through SQL Server, to understand the customer profile and identify behavioral patterns related to the purchases made. The analysis aims to explore aspects such as item and category preferences. These insights can guide strategic decisions to improve customer experience and optimize sales and marketing.
 
 ### Data:
 
